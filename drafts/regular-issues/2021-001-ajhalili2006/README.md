@@ -2,6 +2,7 @@
 
 | Field Name | Content |
 | --- | --- |
+| Title | Oversimplified Stuff, Spoiler-Ahead-Because-Gildedguy-Origin-Story, and more! |
 | ETA | March 12, 19 or 26 |
 | Author | Andrei Jiroh Halili (https://medium.com/@AJHalili2006) |
 | Status | **Planning in progress** |
