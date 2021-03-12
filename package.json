@@ -1,0 +1,21 @@
+{
+  "name": "@recaptime/newsletter-archive-toolkit",
+  "description": "NPM toolkit for maintaining the RT newsletter archives repo.",
+  "version": "0.1.0",
+  "main": "templates/hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:issue": "./newDirGenerator.sh issue",
+    "generate:community-posts": "./newDirGenerator.sh community-post",
+    "generate:updates-radio": ".newDirGenerator.sh updates-radio",
+    "generate:issue-noninteractive": "./newDirGenerator.sh issue --noninteractive",
+    "generate:community-posts-noninteractive": "./newDirGenerator.sh community-post --noninteractive",
+    "generate:updates-radio-noninteractive": ".newDirGenerator.sh updates-radio --noninteractive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:MadeByThePinsHub/RecapTime/newsletter-archive.git"
+  },
+  "author": "Recap Time Newsletter Archive Contributors <contributors@recaptime.tk>",
+  "license": "CC-BY-SA-4.0"
+}
