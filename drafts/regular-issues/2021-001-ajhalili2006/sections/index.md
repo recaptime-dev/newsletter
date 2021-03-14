@@ -10,6 +10,7 @@ After days of drafting the first issue and collecting feedback with
 some of my friends online, we got into this. Welcome to the first
 issue of Recap Time!
 
+<!-- ./highlights.md -->
 ## Highlights
 
 - Gildedguy Story #0 is expected to be released by March 31 (April 1
