@@ -4,8 +4,11 @@
 Notes:
 
 * Remove any parameters in the link before commiting to avoid
-  trackin
-* Use an URL expander for shortened links, unless it's youtu.be links.
+  tracking stuff
+* Use an URL expander for shortened links, unless it's youtu.be
+  links
+* Every link will he reviewed by Andrei Jiroh and others before
+  bumping into publish-todo category.
 
 -->
 
@@ -19,7 +22,7 @@ Notes:
 
 ## Curated Picks
 
-TK
+- https://ift.tt/311RLJy
 
 ## Other Stuff
 

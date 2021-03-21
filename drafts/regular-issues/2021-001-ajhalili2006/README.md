@@ -3,9 +3,9 @@
 | Field Name | Content |
 | --- | --- |
 | Title | Oversimplified Stuff, Spoiler-Ahead-Because-Gildedguy-Origin-Story, and more! |
-| ETA | March 12, 19 or 26 |
-| Author | Andrei Jiroh Halili (https://medium.com/@AJHalili2006) |
-| Status | **Planning in progress** |
+| ETA | On or before March 26 |
+| Principal Maintainer | Andrei Jiroh Halili (https://medium.com/@AJHalili2006) |
+| Status | **Drafting in progress** |
 | Draft URL | null |
 
 ## Contents
@@ -15,3 +15,8 @@
 | Sections | [`./sections`](./sections) |
 | Media Files | [`./media`](./files) |
 | Sources | [`./sources_list.md`](./sources_list.md) |
+
+## Credits
+
+- The principal maintainer himself for the issue, Andrei Jiroh
+- Add your name here soon!
