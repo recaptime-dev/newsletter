@@ -6,7 +6,7 @@ account to be added as an author in our publication. We try to focus
 more on qualuty over quanitity, so each merge request/future post
 undergoes both editorial and community review. 
 
-## Hierachy
+## Structure
 
 Please be reminded that this is NOT an exhaustive documentation on
 either our editorial processes or how to contribute into our newsletters.
@@ -30,10 +30,12 @@ default in this directory.
 violates our Community Code of Conduct or at reviewer's discretion)
 goes here. Note that if you want to fix issues raised BEFORE moving
 your issue/article there, please fix ASAP, otherwise you need to
-start over again.
+start over again. (But not really, just copy stuff back to the
+`drafts/` and improve to make it better.)
 * `/templates` - Templates to get you started. Please be reminded to
 store your media stuff by yourself at
 <https://git.rip/MadeByThePinsHub/assets-bucket/recaptime-newsletter-archive>
+or at the [shared drive for archives](https://rtapp.tk/archives-oss/media-gdrive).
 
 ### By Category
 
