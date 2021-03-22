@@ -14,15 +14,17 @@ Notes:
 
 ## Tech News
 
-- https://www.engadget.com/apple-imac-pro-discontinued-155125483.html
-- https://www.theverge.com/2021/3/5/22316189/microsoft-exchange-server-security-exploit-china-attack-30000-organization
-- https://www.engadget.com/facebook-racism-hiring-investigation-225453912.htm 
-- https://www.engadget.com/germany-video-game-loot-boxes-adult-requirement-145154466.htm
--
+- https://www.engadget.com/apple-pulls-imac-models-m1-refresh-103829331.html
+- https://www.theverge.com/2021/3/5/22316189/microsoft-exchange-server-security-exploit-china-attack-30000-organization (also https://blogs.microsoft.com/on-the-issues/2021/03/02/new-nation-state-cyberattacks/)
+- https://www.engadget.com/germany-video-game-loot-boxes-adult-requirement-145154466.html
+- https://www.engadget.com/donald-trump-social-network-211532975.html
+- https://hackaday.com/2021/03/22/cursed-usb-c-when-plug-orientation-matters/
+- https://www.vox.com/the-highlight/22320009/amazon-bessemer-union-rwdsu-alabama
 
 ## Curated Picks
 
-- https://ift.tt/311RLJy
+- https://www.theverge.com/22338418/dream-smp-youtube-minecraft-fanart-fanfiction-video-edits-fandom
+- https://psyche.co/ideas/what-falling-robots-reveal-about-the-absurdity-of-human-trust
 
 ## Other Stuff
 

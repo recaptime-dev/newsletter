@@ -36,6 +36,7 @@ If you prefer not to commit to a lifetime but still want to
 support us fianically once, send us a tip to our [PayPal][paypal]
 account.
 
+<!-- Links to rtapp.tk will work after maybe May or June?  -->
 [paypal]: https://rtapp.tk/support-thepinsteam/paypal
 
 Maintaing projects like this take us time and resources and with

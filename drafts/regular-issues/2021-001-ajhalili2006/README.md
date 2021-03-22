@@ -3,7 +3,7 @@
 | Field Name | Content |
 | --- | --- |
 | Title | Oversimplified Stuff, Spoiler-Ahead-Because-Gildedguy-Origin-Story, and more! |
-| ETA | On or before March 26 |
+| ETA | **Final draft**: On or before March 26 / **Publishing on** March 28 |
 | Principal Maintainer | Andrei Jiroh Halili (https://medium.com/@AJHalili2006) |
 | Status | **Drafting in progress** |
 | Draft URL | null |
