@@ -20,11 +20,13 @@ Notes:
 - https://www.engadget.com/donald-trump-social-network-211532975.html
 - https://hackaday.com/2021/03/22/cursed-usb-c-when-plug-orientation-matters/
 - https://www.vox.com/the-highlight/22320009/amazon-bessemer-union-rwdsu-alabama
+- https://www.theverge.com/2021/3/22/22345792/microsoft-discord-acquisition-report-10-billion
 
 ## Curated Picks
 
 - https://www.theverge.com/22338418/dream-smp-youtube-minecraft-fanart-fanfiction-video-edits-fandom
 - https://psyche.co/ideas/what-falling-robots-reveal-about-the-absurdity-of-human-trust
+- https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs
 
 ## Other Stuff
 
