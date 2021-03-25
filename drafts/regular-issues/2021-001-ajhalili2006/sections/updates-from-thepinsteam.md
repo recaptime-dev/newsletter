@@ -5,7 +5,7 @@
 > on Medium.
 
 First of all, we're now arrived the fediverse. Follow us on [Mastodon](https://mastodon.online/@thepinsteam)
-([don't forget to follow Recap Time also](https://mastodon.online/@RecapTime))
+([don't forget to follow Recap Time also](https://mastodon.online/@RecapTime)) for updates and stuff.
 
 Second, Heroku maybe an sus to us. Zeet got yeeted by abusers.
 Divio and Railway was chosen to maybe place our future APIs and

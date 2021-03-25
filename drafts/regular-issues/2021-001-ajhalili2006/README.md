@@ -14,7 +14,7 @@
 | --- | --- |
 | Sections | [`./sections`](./sections) |
 | Media Files | [`./media`](./files) |
-| Sources | [`./sources_list.md`](./sources_list.md) |
+| Sources (will moved somewhere soon) | [`./sources_list.md`](./sources_list.md) |
 
 ## Credits
 

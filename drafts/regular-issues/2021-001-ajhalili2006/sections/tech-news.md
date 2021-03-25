@@ -6,7 +6,6 @@ if we missed some and want to see them in the future issues,
 as we'll look into it. As usual, keep coming back into your favorite
 tech news site or [watch new TechLinked uploads](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) every MWF for more stuff.
 
-
 * Looks like Apple pull [more iMac models](https://www.engadget.com/apple-pulls-imac-models-m1-refresh-103829331.html) ahead of its possible M1 refresh. No more 512GB and 1TB SSD configurations for the 21.5 inch iMac. Maybe Apple is stopped producing products due to the same global shortage in the tech industry.
 * As [this non-SolarWinds-related attack](https://blogs.microsoft.com/on-the-issues/2021/03/02/new-nation-state-cyberattacks/) is ongoing since January, over 30,000 organizations (governmental + commerical)'s emails got [hacked via  Microsoft Exchange Server flaws](https://www.theverge.com/2021/3/5/22316189/microsoft-exchange-server-security-exploit-china-attack-30000-organizations). If your org uses Exchange Online, this doesn't apply to you. Otherwise, update as much as possible.
 * Are loot boxes look like gambling bull$#!t? If so, [Germany may restrict games with loot boxes](https://www.engadget.com/germany-video-game-loot-boxes-adult-requirement-145154466.html) to people above 18. This may raise some games' age rating into 18, or go to the usual geoblocking-slash-age gating.
