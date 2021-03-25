@@ -13,4 +13,7 @@ stuff) with Framagit soon.
 and possibly your-favorite-digital-creators-went-out-of-context,
 especially the one who oversimplify One and Skid (Michael Moy did
 that lol).
-- ICYMI: Hyun's Dojo Community YT channel reached 2 Million subs, so [are you ready for THIS?](https://www.youtube.com/watch?v=X-lclBxiqBc) (Actuallym Michael Moy teased us again in [Twitter](https://twitter.com/GildedguyArt/status/1372965987688050690), and surely the 2 million dance video went into coconuts.)
+- ICYMI: Hyun's Dojo Community YT channel reached 2 Million subs,
+so [are you ready for THIS?](https://www.youtube.com/watch?v=X-lclBxiqBc)
+(Actually Michael Moy teased us about this in [Twitter](https://twitter.com/GildedguyArt/status/1372965987688050690),
+and surely the 2 million dance video went into coconuts.)
