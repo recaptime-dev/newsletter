@@ -18,11 +18,12 @@ And while IPFS can help, you might need to wait months as you know,
 decentralized platforms need to seed and cache content across multiple
 nodes, and in case of IPFS across planets (if humans ever lived in
 the moon or even on Mars).
-* Alan Pope, Martin Wimpress and TK are now connected to your mind for
-community news and events for everything Ubuntu, they are
-migrating away from Lastpass (probably, please correct this if
-I'm wrong) to Bitwarden as mostly Lastpass free users did in the
-past weeks since the announcement regarding the changes to the free tier,
-and more in [the Ubuntu Podcast March 25, 2021 episode](https://ubuntupodcast.org/2021/03/25/s14e03-tiny-spider-transmitted/).
+* Alan Pope, Martin Wimpress and Mark Johnson are now connected to
+your mind for community news and events for everything Ubuntu,
+Mark are migrating away from an command line utility to Bitwarden
+while Alan is busy upgrading his home server from Ubunth 18.04 to
+the latest LTS version 20.04 and more in
+[the Ubuntu Podcast March 25, 2021 episode](https://ubuntupodcast.org/2021/03/25/s14e03-tiny-spider-transmitted/).
 They also rediscovered Keybase and a lot of blogging in
 [March 18, 2021 episode](https://ubuntupodcast.org/2021/03/18/s14e02-toast-letter-club/).
+(This is not Alan Pope's official Blog Post Podcast, yet.)

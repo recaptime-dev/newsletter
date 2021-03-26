@@ -17,7 +17,8 @@ people above 18. This may raise some games' age rating into 18, or go to the usu
 or not he got some tech partners are what his another matter he need for now. (don't forget the US Capitol riot last
 January 6)
 * [USB-C is cursed](https://hackaday.com/2021/03/22/cursed-usb-c-when-plug-orientation-matters/),
-and non-USB-C users want correct plug orientation.
+and non-USB-C users want correct plug orientation. (seriously, this
+is not an tech news, but pardon us)
 * [Companies in US don't like unions?](https://www.vox.com/the-highlight/22320009/amazon-bessemer-union-rwdsu-alabama)Looks like an
 David and Goliath battle in Bessemer, Alabama to watch at night, right? But nah, they don't know Bessemer too much.
 * Also, [Microsoft wants to acuqire Discord, worth over $10M+](https://www.theverge.com/2021/3/22/22345792/microsoft-discord-acquisition-report-10-billion).

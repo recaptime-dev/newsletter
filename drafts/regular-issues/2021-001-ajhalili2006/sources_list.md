@@ -9,6 +9,8 @@ Notes:
   links
 * Every link will he reviewed by Andrei Jiroh and others before
   bumping into publish-todo category.
+* For spoilers, place it under the Spoilers section, keeping its
+  rtapp.tk/kutt.it/link.recaptime.tk shortlink structure.
 
 -->
 
