@@ -2,7 +2,8 @@
 title: Oversimplified Stuff, Spoiler-Ahead-Because-Gildedguy-Origin-Story, and more!
 issueId: 2021-001 # Don't include your username whatever
 description: |
-    
+  Your quick recap to what's happened and more from Recap Time.
+  Microsoft want to acquire Discord,    
 license: default # CC BY-SA 4.0
 ---
 
@@ -48,7 +49,8 @@ the same global shortage in the tech industry.
 * As [this non-SolarWinds-related attack](https://blogs.microsoft.com/on-the-issues/2021/03/02/new-nation-state-cyberattacks/) is ongoing since January, over 30,000 organizations (governmental + commerical)'s emails got [hacked via  Microsoft Exchange Server flaws](https://www.theverge.com/2021/3/5/22316189/microsoft-exchange-server-security-exploit-china-attack-30000-organizations).
 If your org uses Exchange Online, this doesn't apply to you. Otherwise, update as much as possible.
 * Are loot boxes look like gambling bull$#!t? If so, [Germany may restrict games with loot boxes](https://www.engadget.com/germany-video-game-loot-boxes-adult-requirement-145154466.html) to
-people above 18. This may raise some games' age rating into 18, or go to the usual geoblocking-slash-age gating.
+people above 18. This may raise some games' age rating into 18, or
+go to the usual geoblocking-slash-age gating.
 * Looks like [Trump plans to launch an social network in 2-3 months](https://www.engadget.com/donald-trump-social-network-211532975.html), but whether
 or not he got some tech partners are what his another matter he need for now. (don't forget the US Capitol riot last
 January 6)
