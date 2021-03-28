@@ -100,5 +100,4 @@ If you want to invest with us on Patreon, [go ahead and pick the tier, we recomm
 Otherwise, please wait as we write the document for investment stuff. With your due diligence required. ([listen to related TechCrunch Equity podcast episode](https://techcrunch.com/2021/03/26/you-can-only-invest-if-you-promise-not-to-read-the-fine-print-ok/))
 * [Wait, GameStop selling GPUs?](https://www.theverge.com/2021/3/26/22353287/gamestop-amd-nvidia-gpu-graphics-cards-on-sale-pc-hardware) Linus said yes because people need yet another retailer fighting over graphic cards' stock.
 
-<!-- ./memes-and-stuff.md --
->
+<!-- ./memes-and-stuff.md -->
