@@ -1,6 +1,6 @@
 ## Some Tech News
 
-> We try to pick what we deem important to discuss in this issue. So,
+We try to pick what we deem important to discuss in this issue. So,
 if we missed some and want to see them in the future issues,
 [send us an GitLab issue](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archive/issues/new)
 as we'll look into it. As usual, keep coming back into your favorite
@@ -14,8 +14,7 @@ If your org uses Exchange Online, this doesn't apply to you. Otherwise, update a
 * Are loot boxes look like gambling bull$#!t? If so, [Germany may restrict games with loot boxes](https://www.engadget.com/germany-video-game-loot-boxes-adult-requirement-145154466.html) to
 people above 18. This may raise some games' age rating into 18, or go to the usual geoblocking-slash-age gating.
 * Looks like [Trump plans to launch an social network in 2-3 months](https://www.engadget.com/donald-trump-social-network-211532975.html), but whether
-or not he got some tech partners are what his another matter he need for now. (don't forget the US Capitol riot last
-January 6)
+or not he got some tech partners are what his another matter he need for now. (don't forget the US Capitol riot last January 6)
 * [USB-C is cursed](https://hackaday.com/2021/03/22/cursed-usb-c-when-plug-orientation-matters/),
 and non-USB-C users want correct plug orientation. (seriously, this
 is not an tech news, but pardon us)
@@ -24,4 +23,5 @@ David and Goliath battle in Bessemer, Alabama to watch at night, right? But nah,
 * Also, [Microsoft wants to acuqire Discord, worth over $10M+](https://www.theverge.com/2021/3/22/22345792/microsoft-discord-acquisition-report-10-billion).
 If Discord will not go public instead, please expect some ads (we don't think so)
 and maybe Mr. Clippy and friends will jump over your server. (don't forget
-to say hi). 
+to say hi to them). 
+* Here's more on why should you update your OS: [there's a WebKit (the browser engine that powers Safari) vulnerability, discovered by security researchers at Google’s Project Zero](https://techcrunch.com/2021/03/27/apple-releases-iphone-ipad-watch-security-patch-to-fix-zero-day-bug-under-active-attack) and it looks like an universal XSS through processing maliciously crafted web content, which may actively exploited.
