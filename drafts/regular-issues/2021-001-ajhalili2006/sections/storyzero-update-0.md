@@ -26,4 +26,8 @@ may hint about the possiblity of Story X.)
 
 *From Discord*
 
-Okay, enough screenshots.
+But, the premiere has been moved to this summer (for people in
+Northern Hemisphere) for unknown reasons Michael didn't allowed to
+say. Follow [this GitLab issue](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archive/-/issues/1) and possibly [join his Discord server](https://discord.gg/6SxdeZtaF5) for updates.
+
+Okay, enough screenshots and updates. Let's scroll to our curated picks section.

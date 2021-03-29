@@ -1,6 +1,6 @@
 ## Curated Picks
 
-Picks from us and the community from your favorite creators that's currently insdie and outside of our watchlist (pardon us,
+Picks from us and the community from your favorite creators that's currently inside and outside of our watchlist (pardon us,
 but ping us on Twitter and on Mastodon if you want that article toget featured), plus more stuff. As the newsletter matures, we move open-source stuff, among others, in their own sections soon.
 
 * New to Dream SMP (or just curious about the fandom)? An [The Verge article](https://www.theverge.com/22338418/dream-smp-youtube-minecraft-fanart-fanfiction-video-edits-fandom)

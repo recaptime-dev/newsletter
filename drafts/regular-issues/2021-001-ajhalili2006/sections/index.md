@@ -17,7 +17,7 @@ be reminded that this was crafter from March 6 to 27, with additional
 ## Highlights
 
 - Gildedguy Story #0 is expected to be released by March 31 (April 1
-in PHST). Read on or maybe [watch the announcement on YouTube]().
+in PHST). Read on or maybe [watch the announcement on YouTube](https://www.youtube.com/watch?v=c47UhPcOP68).
 to learn more.
 - Some of tech news we handpicked are now baked for your consumption.
 One of them is the possibility of iMac Pros getting discontinued and
@@ -63,15 +63,46 @@ and maybe Mr. Clippy and friends will jump over your server. (don't forget
 to say hi to them). 
 * Here's more on why should you update your OS: [there's a WebKit (the browser engine that powers Safari) vulnerability, discovered by security researchers at Google’s Project Zero](https://techcrunch.com/2021/03/27/apple-releases-iphone-ipad-watch-security-patch-to-fix-zero-day-bug-under-active-attack) and it looks like an universal XSS through processing maliciously crafted web content, which may actively exploited.
 
-
 <!-- ./storyzero-update-0.md DO-NOT-APPEND:manual-append-only:START -->
+## Some Gildedguy Story #0 Updates
 
+...and some stream memes for grins and giggles, but our
+editor-in-chief prefers to place it in the Memes section of
+this issue.
+
+Okay, March 31 will be the worldwide premiere date on both Twitch
+and YouTube. The hype is gonna keep up until we broke our measurements
+in the unforeseenable future. (Depending on your timezone and the time
+of premiere, some of you may went to the wrong side of the road, AKA
+April 1. Please no more "Watch premieres at 3 AM" again, YouTubd.)
+
+[yt-embed-here-owo](https://www.youtube.com/watch?v=c47UhPcOP68)
+
+4 more future stories confirmed, but the fans at Discord are still
+under heavy debate if Story 10 will be an
+Gildedguy vs. [SPOILER KENSORED](https://www.youtube.com/watch?v=G7uuttPwLRg&lc=UgyPkusnD-hegITXOXh4AaABAg.8etJwhb-q4X8f7h5uTXLiX).
+(Michael's comment on the [Erase Humanity Part 2](https://www.youtube.com/watch?v=G7uuttPwLRg&lc=UgyPkusnD-hegITXOXh4AaABAg)
+may hint about the possiblity of Story X.)
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/gg-vs-yoopia-confirmed.png)
+
+*From YouTube tho*
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/gg-vs-yoopia-confirmed-discord1.png)
+
+*From Discord*
+
+But, the premiere has been moved to this summer (for people in
+Northern Hemisphere) for unknown reasons Michael didn't allowed to
+say. Follow [this GitLab issue](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archive/-/issues/1) and possibly [join his Discord server](https://discord.gg/6SxdeZtaF5) for updates.
+
+Okay, enough screenshots and updates. Let's scroll to our curated picks section.
 <!-- ./storyzero-updatd-0.md DO-NOT-APPEND:manual-append-only:END -->
 
 <!-- ./curated-picks.md -->
 ## Curated Picks
 
-Picks from us and the community from your favorite creators that's currently insdie and outside of our watchlist (pardon us,
+Picks from us and the community from your favorite creators that's currently inside and outside of our watchlist (pardon us,
 but ping us on Twitter and on Mastodon if you want that article toget featured), plus more stuff. As the newsletter matures, we move open-source stuff, among others, in their own sections soon.
 
 * New to Dream SMP (or just curious about the fandom)? An [The Verge article](https://www.theverge.com/22338418/dream-smp-youtube-minecraft-fanart-fanfiction-video-edits-fandom)
@@ -101,3 +132,40 @@ Otherwise, please wait as we write the document for investment stuff. With your 
 * [Wait, GameStop selling GPUs?](https://www.theverge.com/2021/3/26/22353287/gamestop-amd-nvidia-gpu-graphics-cards-on-sale-pc-hardware) Linus said yes because people need yet another retailer fighting over graphic cards' stock.
 
 <!-- ./memes-and-stuff.md -->
+## Memes Stuff
+
+> The memes we considered as an mess in other sections shall fall here. Don't
+worry, we review all if them ahead of time before they even get published on
+our Medium and possibly to Dev.to soon.
+
+Last March 6, Michael Moy oversimplified his characters, and even Oxob, One and Skid. We're not doing some
+One and Skid $#!tpost here.
+
+{% twitter 1376263075049971717 %}
+
+Yes, these are all cursed as you'll may say. Is this all started because of
+[Mozilla oversimplified the Firefox logo](https://www.theverge.com/2019/6/11/18661931/mozilla-firefox-logo-new-design-more-fire-less-fox)?
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/memes-and-stuff/mozilla-killed-the-fox.png)
+
+Let's dig around the chat archives we had, and eat these:
+
+* Don't worry, there will be no oversimplified Lillian as of now.
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/plz-dont-oversimplify-lillian.png)
+
+* Is this yet another crappy CN reboot of [I FORGOT WHAT IT CALLED, LET ME KNOW IN THE COMMENTS]?
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/crappy-cn-reboot-lol.png)
+
+* That's not Fry, either
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/welp-is-this-skid.png)
+
+* Actually, Andrei Jiroh suggested Michael to oversimplify Oxob, but he'll not do it again next time.
+
+![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/plz-dont-give-michael-ideas.png)
+
+---
+
+That's it for now!
