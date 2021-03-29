@@ -7,15 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate:issue": "./newDirGenerator.sh issue",
     "generate:community-posts": "./newDirGenerator.sh community-post",
-    "generate:updates-radio": ".newDirGenerator.sh updates-radio",
+    "generate:updates-radio": "./newDirGenerator.sh updates-radio",
     "generate:issue-noninteractive": "./newDirGenerator.sh issue --noninteractive",
     "generate:community-posts-noninteractive": "./newDirGenerator.sh community-post --noninteractive",
-    "generate:updates-radio-noninteractive": ".newDirGenerator.sh updates-radio --noninteractive"
+    "generate:updates-radio-noninteractive": "./newDirGenerator.sh updates-radio --noninteractive",
+    "lint:drafts": "echo \"WIP\" && exit"
   },
   "repository": {
     "type": "git",
     "url": "git@gitlab.com:MadeByThePinsHub/RecapTime/newsletter-archive.git"
   },
   "author": "Recap Time Newsletter Archive Contributors <contributors@recaptime.tk>",
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "markdownlint": "^0.23.1"
+  }
 }
