@@ -1,0 +1,7 @@
+{
+    "no-emphasis-as-header": false,
+    "no-emphasis-as-heading": false,
+    "first-line-h1": false,
+    "line-length": false,
+    "ul-style": false
+}
