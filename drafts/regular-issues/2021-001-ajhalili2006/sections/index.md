@@ -60,7 +60,7 @@ David and Goliath battle in Bessemer, Alabama to watch at night, right? But nah,
 * Also, [Microsoft wants to acuqire Discord, worth over $10M+](https://www.theverge.com/2021/3/22/22345792/microsoft-discord-acquisition-report-10-billion).
 If Discord will not go public instead, please expect some ads (we don't think so)
 and maybe Mr. Clippy and friends will jump over your server. (don't forget
-to say hi to them). 
+to say hi to them).
 * Here's more on why should you update your OS: [there's a WebKit (the browser engine that powers Safari) vulnerability, discovered by security researchers at Google’s Project Zero](https://techcrunch.com/2021/03/27/apple-releases-iphone-ipad-watch-security-patch-to-fix-zero-day-bug-under-active-attack) and it looks like an universal XSS through processing maliciously crafted web content, which may actively exploited.
 
 <!-- ./storyzero-update-0.md DO-NOT-APPEND:manual-append-only:START -->
@@ -150,7 +150,7 @@ Yes, these are all cursed as you'll may say. Is this all started because of
 
 Let's dig around the chat archives we had, and eat these:
 
-* Don't worry, there will be no oversimplified Lillian as of now.
+* Don't worry, there will be no oversimplified Lilian as of now.
 
 ![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/plz-dont-oversimplify-lillian.png)
 
@@ -168,4 +168,6 @@ Let's dig around the chat archives we had, and eat these:
 
 ---
 
-That's it for now!
+That's it for now! Come back in the next issue for more stuff, and as always, consider [supporting us finanically on Patreon](https://patreon.com/thepinsteam)
+and follow us on [Twitter](https://twitter.com/RecapTime) and [Mastodon](https://mastodon.online/@RecapTime) for
+updates. If you want to help us publish the next issue, consider [contribute on GitLab](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archive).

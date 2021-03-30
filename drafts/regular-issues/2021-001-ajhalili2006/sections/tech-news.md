@@ -23,5 +23,5 @@ David and Goliath battle in Bessemer, Alabama to watch at night, right? But nah,
 * Also, [Microsoft wants to acuqire Discord, worth over $10M+](https://www.theverge.com/2021/3/22/22345792/microsoft-discord-acquisition-report-10-billion).
 If Discord will not go public instead, please expect some ads (we don't think so)
 and maybe Mr. Clippy and friends will jump over your server. (don't forget
-to say hi to them). 
+to say hi to them).
 * Here's more on why should you update your OS: [there's a WebKit (the browser engine that powers Safari) vulnerability, discovered by security researchers at Google’s Project Zero](https://techcrunch.com/2021/03/27/apple-releases-iphone-ipad-watch-security-patch-to-fix-zero-day-bug-under-active-attack) and it looks like an universal XSS through processing maliciously crafted web content, which may actively exploited.
