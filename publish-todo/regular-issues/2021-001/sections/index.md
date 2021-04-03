@@ -154,7 +154,7 @@ Let's dig around the chat archives we had, and eat these:
 
 ![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/plz-dont-oversimplify-lillian.png)
 
-* Is this yet another crappy CN reboot of [I FORGOT WHAT IT CALLED, LET ME KNOW IN THE COMMENTS]?
+* Is this yet (some crappy) CN reboot of The Amazing World of Gumball?
 
 ![](https://cdn.rtapp.tk/2021-001-ajhalili2006/gilding-with-gold/twitch-chat/crappy-cn-reboot-lol.png)
 
@@ -170,4 +170,4 @@ Let's dig around the chat archives we had, and eat these:
 
 That's it for now! Come back in the next issue for more stuff, and as always, consider [supporting us finanically on Patreon](https://patreon.com/thepinsteam)
 and follow us on [Twitter](https://twitter.com/RecapTime) and [Mastodon](https://mastodon.online/@RecapTime) for
-updates. If you want to help us publish the next issue, consider [contribute on GitLab](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archive).
+updates. If you want to help us publish the next issue or found some bugs in this issue, consider [contribute on GitLab](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archive).
