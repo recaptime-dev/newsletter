@@ -6,11 +6,11 @@ this issue.
 
 Okay, March 31 will be the worldwide premiere date on both Twitch
 and YouTube. The hype is gonna keep up until we broke our measurements
-in the unforeseenable future. (Depending on your timezone and the time
+in the unforeseeable future. (Depending on your timezone and the time
 of premiere, some of you may went to the wrong side of the road, AKA
 April 1. Please no more "Watch premieres at 3 AM" again, YouTubd.)
 
-[yt-embed-here-owo](https://www.youtube.com/watch?v=c47UhPcOP68)
+{% youtube c47UhPcOP68 %}
 
 4 more future stories confirmed, but the fans at Discord are still
 under heavy debate if Story 10 will be an

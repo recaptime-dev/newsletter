@@ -7,11 +7,7 @@ description: |
 license: default # CC BY-SA 4.0
 ---
 
-After days of drafting the first issue and procanisting for weeks,
-we got into this. Welcome to the first issue of Recap Time! Expect
-we may not keep the newsletter fresh every two weeks. Also please
-be reminded that this was crafter from March 6 to 27, with additional
-1-2 days for peer review and handling publishing stuff to Medium.
+After days of drafting the first issue and procrastinating for weeks, we got into this. Welcome to the first issue of Recap Time! Expect we may not keep the newsletter fresh every two weeks. Also please be reminded that this was crafted from March 6 to 27, with additional 1-2 days for peer review and handling publishing stuff to Medium.
 
 <!-- ./highlights.md -->
 ## Highlights
@@ -25,10 +21,7 @@ investigations against racism inside Facebook's hiring process.
 - As The Pins Team keeps expanding the online footprint, we had successfully
 arrived Mastodon (for bringing updates and stuff) and Launchpad (for mirrors
 stuff) with Framagit soon.
-- As we kick off our Medium publication this 2021, we had some memes
-and possibly your-favorite-digital-creators-went-out-of-context,
-especially the one who oversimplify One and Skid (Michael Moy did
-that lol).
+- As we kick off our Medium publication this 2021, we had some memes and possibly your-favorite-digital-creators-went-out-of-context, especially the one who oversimplify One and Skid (Michael Moy did that lol).
 - ICYMI: Hyun's Dojo Community YT channel reached 2 Million subs,
 so [are you ready for THIS?](https://www.youtube.com/watch?v=X-lclBxiqBc)
 (Actually Michael Moy teased us about this in [Twitter](https://twitter.com/GildedguyArt/status/1372965987688050690),
@@ -72,11 +65,11 @@ this issue.
 
 Okay, March 31 will be the worldwide premiere date on both Twitch
 and YouTube. The hype is gonna keep up until we broke our measurements
-in the unforeseenable future. (Depending on your timezone and the time
+in the unforeseeable future. (Depending on your timezone and the time
 of premiere, some of you may went to the wrong side of the road, AKA
 April 1. Please no more "Watch premieres at 3 AM" again, YouTubd.)
 
-[yt-embed-here-owo](https://www.youtube.com/watch?v=c47UhPcOP68)
+{% youtube c47UhPcOP68 %}
 
 4 more future stories confirmed, but the fans at Discord are still
 under heavy debate if Story 10 will be an
