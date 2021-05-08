@@ -9,14 +9,13 @@ Notes:
   links
 * Every link will he reviewed by Andrei Jiroh and others before
   bumping into publish-todo category.
-* For spoilers, place it under the Spoilers section, keeping its
-  rtapp.tk/kutt.it shortlink structure.
+* For spoilers, generate an rtapp.tk shortlink and paste it.
 
 -->
 
 ## Tech News
 
-- TK
+- https://www.theverge.com/2021/5/3/22412899/epic-apple-trial-rules-investment-app-payment
 
 ## Curated Picks
 
@@ -24,4 +23,4 @@ Notes:
 
 ## Others
 
-- TK
+- https://rtapp.tk/story7-theme-discussion

@@ -11,7 +11,8 @@
     "generate:issue-noninteractive": "./newDirGenerator.sh issue --noninteractive",
     "generate:community-posts-noninteractive": "./newDirGenerator.sh community-post --noninteractive",
     "generate:updates-radio-noninteractive": "./newDirGenerator.sh updates-radio --noninteractive",
-    "lint:drafts": "echo \"WIP\" && exit"
+    "lint:drafts": "echo \"WIP\" && exit",
+    "commit": "cz --signoff"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,13 @@
   "author": "Recap Time Newsletter Archive Contributors <contributors@recaptime.tk>",
   "license": "CC-BY-SA-4.0",
   "dependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.2.0",
     "markdownlint": "^0.23.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
