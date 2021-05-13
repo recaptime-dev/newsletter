@@ -4,7 +4,7 @@
 
 | Field Name | Content |
 | --- | --- |
-| Title | Gamers Actually Fricked Up As Chip Shortage Lasts Longer than an Year, RIP LG's mobile phone division, and more |
+| Title | The Epic v. Apple duel, RIP LG's mobile phone division, and more |
 | ETA | **Final draft**: TBA / **Publishing on** TBA |
 | Principal Maintainer | Andrei Jiroh Halili (https://medium.com/@AJHalili2006) |
 | Status | **Currently writing** |
