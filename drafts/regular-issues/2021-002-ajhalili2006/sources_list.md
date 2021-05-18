@@ -19,10 +19,12 @@ Notes:
 - https://techcrunch.com/2021/05/06/freemium-isnt-a-trend-its-the-future-of-saas
 - https://www.polygon.com/22396021/itchio-epic-games-store-windows-pc-apps
 - https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default
+- https://www.wired.com/story/frag-attack-wi-fi-vulnerabilities
+- https://appleinsider.com/articles/21/05/17/hbo-max-cnn-discovery-to-merge-forming-new-streaming-service
 
 ## Community Radar
 
-- https://www.xda-developers.com/magisk-v23-release-safetynet-api-fix/- 
+- TODO 
 
 ## Curated Picks
 
@@ -35,4 +37,4 @@ Notes:
 
 ## Marked as Spoiler
 
-- https://rtapp.tk/story7-theme-discussion
+- https://rtapp.tk/story7-theme-discussion (probably an GitLab issue)

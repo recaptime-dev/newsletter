@@ -8,7 +8,7 @@ tech news site or [watch new TechLinked uploads](https://www.youtube.com/channel
 
 ### Epic Games cooking Apple using their own money
 
-> Source: https://www.theverge.com/2021/5/3/22412899/epic-apple-trial-rules-investment-app-payment, https://www.polygon.com/22396021/itchio-epic-games-store-windows-pc-apps and https://www.theverge.com/22338403/fortnite-story-narrative-interview-donald-mustard-epic-games
+> Full article: https://www.theverge.com/2021/5/3/22412899/epic-apple-trial-rules-investment-app-payment, https://www.polygon.com/22396021/itchio-epic-games-store-windows-pc-apps and https://www.theverge.com/22338403/fortnite-story-narrative-interview-donald-mustard-epic-games
 
 Okay, you heard about the Epic v. Apple case in the past week weeks right? And you asked why Epic Games cook Apple. Well, possibly as an investment. But no, they also want to force Apple to change the rules and possibly fire up more antitrust investiagtions against Big Tech (we don't know, just saying).
 
@@ -36,6 +36,24 @@ Google is rolling out 2FA by default to accounts, slowly to avoid the account lo
 
 If you're ready to let Google turn 2FA on for you, just make sure you're signed in to your phone(s) and actively using it (if you're just use your account for email and Play Store, probably you may not auto-enrolled) and have recovery information added.
 
-If you turned on 2FA on your Google account ahead of time, nice! Just make sure you keep your second-factor options up-to-date, probably get an security keys to better protect your account from phlishing and social engineering attacks..
+If you turned on 2FA on your Google account ahead of time, nice! Just make sure you keep your second-factor options up-to-date, probably get an security keys to better protect your account from phlishing and social engineering attacks.
 
-### 
+### Decades-Old Implementation and Design Flaws Affect Almost Every Wi-Fi Device
+
+> Full article: https://www.wired.com/story/frag-attack-wi-fi-vulnerabilities 
+
+A set of vulnerabilities in how Wi-Fi works is its design expose virtually every single Wi-Fi-supported device, and some of these flaws are been around since its original standard debuted in 1997.
+
+As usual, update your devices into latest patched to keep you protected. But even without software updates, you should make sure that websites you're going have HTTPS on it. Otherwise, you should use an VPN (only use it if you think your government acts like Chinese government).
+
+### HBO Max + CNN + Discovery = new streaming service
+
+> Full article: https://appleinsider.com/articles/21/05/17/hbo-max-cnn-discovery-to-merge-forming-new-streaming-service
+
+AT&T seems to sell their media division, War
+
+### ...and some Google I/O stuff
+
+Remember that last year's went cancelled due to the pandemic? They're back this year, but now it's free. (Timezones are hell messier, but atleast they're on-demand after I/O 2021, most of these.)
+
+
