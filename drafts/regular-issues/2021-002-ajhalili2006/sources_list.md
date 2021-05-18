@@ -30,10 +30,11 @@ Notes:
 
 - TK
 
-## Related Articles
+## Related Articles and Content
 
 - https://www.theverge.com/2020/8/14/21369622/epic-ceo-tim-sweeney-apple-fortnite-lawsuit-ban-basic-freedoms-developers
 - https://www.nytimes.com/2021/04/29/technology/big-tech-pandemic-economy.html
+- https://open.spotify.com/episode/7FW6eZunWGRUrVLjeT9Gt5?si=TtvUKWaGTam6YQO7eZMHmA&utm_source=copy-link
 
 ## Marked as Spoiler
 

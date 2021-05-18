@@ -49,6 +49,7 @@ As usual, update your devices into latest patched to keep you protected. But eve
 ### HBO Max + CNN + Discovery = new streaming service
 
 > Full article: https://appleinsider.com/articles/21/05/17/hbo-max-cnn-discovery-to-merge-forming-new-streaming-service
+> _Hate reading this article? [Listen to this Recode Media podcast episode](https://open.spotify.com/episode/7FW6eZunWGRUrVLjeT9Gt5?si=TtvUKWaGTam6YQO7eZMHmA&utm_source=copy-link) on Spotify.)_
 
 AT&T seems to sell their media division, War
 
