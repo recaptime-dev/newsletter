@@ -12,7 +12,7 @@ Please be reminded that this is NOT an exhaustive documentation on
 either our editorial processes or how to contribute into our newsletters.
 They're just summarized by Andrei Jiroh for future team members and
 contributors in case he either passed away or on vacation. Please see
-the documentation at `/docs` directory.
+the documentation at [this Notion page](https://notion.madebythepins.tk/recaptime-newsletter-handbook).
 
 ### Main Directories / By Status
 
@@ -57,5 +57,5 @@ By submitting your articles here, you agree that your work will be
 licensed under CC BY-SA 4.0 (see LICENSE for full legalese text) on
 both GitLab commits and as an Medium article when approved. Media
 are not covered by this license, so please use with caution. Please
-see <https://git.rip/MadeByThePinsHub/assets-bucket/recaptime-newsletter-archive/blob/main/LICENSE> for
+see <https://gitlab.com/MadeByThePinsHub/RecapTime/image-cdn/blob/main/LICENSE> for
 more information.
