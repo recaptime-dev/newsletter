@@ -7,5 +7,6 @@ export ROOT_DIR=$PWD
 
 exit_devmode() {
     export PATH=$OLD_PATH
+    unset ROOT_DIR 
     unset OLD_PATH
 }

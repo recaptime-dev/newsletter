@@ -6,7 +6,7 @@ SHA1_NEW_DIR_TOKEN=$(echo -n $(date) | sha1sum | awk '{print $1}')
 
 # command logic
 # maybe improve this next time
-if echo $@ | grep -qE 'noninteractive'; then
+if echo $@ | grep -qE 'TODO'; then
     echo "You're in noninteractive mode. To abort, press Ctrl+C and rerun"
     echo "the script without the flag. Generating..."
     sleep 5
@@ -28,5 +28,6 @@ if [[ $1 == "" ]]; then
     echo "                     issue, community-posts, or updates-radio"
     echo
     echo "Supported flags:"
+    echo "  --nointeractive
     exit
 fi
