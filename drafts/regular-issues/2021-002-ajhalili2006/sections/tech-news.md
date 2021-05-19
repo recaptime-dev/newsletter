@@ -57,4 +57,4 @@ AT&T seems to sell their media division, War
 
 Remember that last year's went cancelled due to the pandemic? They're back this year, but now it's free. (Timezones are hell messier, but atleast they're on-demand after I/O 2021, most of these.)
 
-
+From the [Android 12 redesign](https://www.androidauthority.com/android-12-redesign-1225716/), to [their partnership with Samsung to challenge Apple Watch](),
