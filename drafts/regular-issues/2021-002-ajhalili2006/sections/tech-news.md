@@ -55,6 +55,16 @@ AT&T seems to sell their media division, War
 
 ### ...and some Google I/O stuff
 
-Remember that last year's went cancelled due to the pandemic? They're back this year, but now it's free. (Timezones are hell messier, but atleast they're on-demand after I/O 2021, most of these.)
+Remember that last year's went cancelled due to the pandemic? They're back this year, but now it's free woth some swag and merch for those who brought an ticket last year. (Timezones are hell messier, but atleast they're on-demand after I/O 2021, most of these.)
 
-From the [Android 12 redesign](https://www.androidauthority.com/android-12-redesign-1225716/), to [their partnership with Samsung to challenge Apple Watch](),
+From the [Android 12 redesign](https://www.androidauthority.com/android-12-redesign-1225716/), to [their partnership with Samsung to challenge Apple Watch](), and more, if you're late at the party, you can watch this quick recap from [Google](bshq).
+
+We also recommend to read [TechCrunch's coverage](https://techcrunch.com/tag/google-i-o-2021) of Google I/O 2021 for more.
+
+### Finally, some more stuff
+
+> For the full scoop, check out [This Week in Apps' May 22, 2021 issue](https://techcrunch.com/2021/05/22/this-week-in-apps-google-i-o-hits-and-misses-snap-goes-shopping-parler-returns-to-app-store/).
+
+* [Parler is back on Apple App Store](https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/), but posts that labeled as `hate` are not available on the iOS app, among other things.
+* So you think WhatsApp's new privacy policy BS for you? No problem, switch to Telegram if you want cloud backups (you still need to create e2e chats) and more, or if you want security, there's Signal. (What about Element, if you want an mofe decentralized platform?)
+* An munted $#!tshow happened in Freenode as devs flee to other IRC networks after [an "takeover" by Korean Crown Prince](https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover), in which case, we definitely f&#ked.

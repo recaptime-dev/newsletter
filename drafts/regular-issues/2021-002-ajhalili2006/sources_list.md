@@ -23,6 +23,9 @@ Notes:
 - https://appleinsider.com/articles/21/05/17/hbo-max-cnn-discovery-to-merge-forming-new-streaming-service
 - https://www.xda-developers.com/material-you/
 - https://www.androidauthority.com/android-12-redesign-1225716/
+- https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/
+- 
+- https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover
 
 ## Community Radar
 
@@ -34,12 +37,17 @@ Notes:
 - https://www.technologyreview.com/2021/04/29/1024301/vaccines-covid-breakthrough-infections-immunity-cdc
 - https://www.facebook.com/BBCFamilyNews/videos/463515334741005
 - https://youtu.be/qCnM4osEIII
+https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
+- https://9to5google.com/2021/05/19/google-sans-text/
+- https://www.theverge.com/2021/5/20/22445382/chromeos-linux-release-beta-version-91
 
 ## Related Articles and Content
 
 - https://www.theverge.com/2020/8/14/21369622/epic-ceo-tim-sweeney-apple-fortnite-lawsuit-ban-basic-freedoms-developers
 - https://www.nytimes.com/2021/04/29/technology/big-tech-pandemic-economy.html
 - https://open.spotify.com/episode/7FW6eZunWGRUrVLjeT9Gt5?si=TtvUKWaGTam6YQO7eZMHmA
+- https://techcrunch.com/tag/google-i-o-2021
+- https://techcrunch.com/2021/05/22/this-week-in-apps-google-i-o-hits-and-misses-snap-goes-shopping-parler-returns-to-app-store/
 
 ## Marked as Spoiler
 
