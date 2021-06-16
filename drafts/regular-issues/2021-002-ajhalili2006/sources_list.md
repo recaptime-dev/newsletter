@@ -26,6 +26,7 @@ Notes:
 - https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/
 - 
 - https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover
+- https://www.androidauthority.com/arm-32-vs-64-bit-explained-1232065/
 
 ## Community Radar
 
@@ -35,11 +36,12 @@ Notes:
 
 - https://dev.to/blaketweeted/the-truth-about-open-source-developers-wds-2-2bb9
 - https://www.technologyreview.com/2021/04/29/1024301/vaccines-covid-breakthrough-infections-immunity-cdc
-- https://www.facebook.com/BBCFamilyNews/videos/463515334741005
 - https://youtu.be/qCnM4osEIII
 https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 - https://9to5google.com/2021/05/19/google-sans-text/
 - https://www.theverge.com/2021/5/20/22445382/chromeos-linux-release-beta-version-91
+- https://www.theverge.com/2021/6/1/22463920/elon-musk-stock-price-tweets-sec
+- https://www.zdnet.com/article/microsoft-wants-you-to-calm-down-about-windows-11-in-a-twisted-wonderful-way
 
 ## Related Articles and Content
 

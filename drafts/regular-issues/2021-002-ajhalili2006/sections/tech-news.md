@@ -61,10 +61,22 @@ From the [Android 12 redesign](https://www.androidauthority.com/android-12-redes
 
 We also recommend to read [TechCrunch's coverage](https://techcrunch.com/tag/google-i-o-2021) of Google I/O 2021 for more.
 
-### Finally, some more stuff
+### Finally, some more stuff from This Week in Apps Newsletter
 
 > For the full scoop, check out [This Week in Apps' May 22, 2021 issue](https://techcrunch.com/2021/05/22/this-week-in-apps-google-i-o-hits-and-misses-snap-goes-shopping-parler-returns-to-app-store/).
 
 * [Parler is back on Apple App Store](https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/), but posts that labeled as `hate` are not available on the iOS app, among other things.
-* So you think WhatsApp's new privacy policy BS for you? No problem, switch to Telegram if you want cloud backups (you still need to create e2e chats) and more, or if you want security, there's Signal. (What about Element, if you want an mofe decentralized platform?)
+* So you think WhatsApp's new privacy policy BS for you? No problem, switch to Telegram if you want cloud backups (you still need to create e2e chats) and more, or if you want security, there's Signal. (What about Matrix, if you want an more decentralized platform? Well, an spec update is needed to minimize metadata.)
 * An munted $#!tshow happened in Freenode as devs flee to other IRC networks after [an "takeover" by Korean Crown Prince](https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover), in which case, we definitely f&#ked.
+
+### RIP 32-bit, as Arm says
+
+> Full article: https://www.androidauthority.com/arm-32-vs-64-bit-explained-1232065/
+
+For Android and Apple users, this should be fine on most cases. For Windows and Linux, 32-bit support will still be there for some time.
+
+### And wait, there's more!
+
+Because of the delays in publishing this issues, some of them (including Windows 11 and Apple WWDC stuff) are on the Curated Picks section.
+
+If you want to help us write quarterly recaps (and make these quarterly recaps into monthly ones), the newsletter itself is [open-source](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archives) and we're open for any contributions.
