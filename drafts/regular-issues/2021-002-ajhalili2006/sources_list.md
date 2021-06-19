@@ -30,7 +30,9 @@ Notes:
 
 ## Community Radar
 
-- TODO 
+- TODO: Add Audacity CLA/twpemetry chaos
+- https://www.zdnet.com/article/nasty-linux-systemd-root-level-security-bug-revealed-and-patched/
+- https://open.spotify.com/episode/5U83QXrfKl7lUhEY87PyyL?si=oQ8NlnpTRsSAvraTpzCdng&utm_source=copy-link&dl_branch=1
 
 ## Curated Picks
 
@@ -42,6 +44,8 @@ https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 - https://www.theverge.com/2021/5/20/22445382/chromeos-linux-release-beta-version-91
 - https://www.theverge.com/2021/6/1/22463920/elon-musk-stock-price-tweets-sec
 - https://www.zdnet.com/article/microsoft-wants-you-to-calm-down-about-windows-11-in-a-twisted-wonderful-way
+- https://www.thurrott.com/google/251868/google-makes-workspace-free-for-everyon
+- https://open.spotify.com/episode/3wxKujV5HoQypeAIt0oYZP?si=X1QtTOwiTxu6yVRO2UX8OA&utm_source=copy-link&dl_branch=1
 
 ## Related Articles and Content
 
@@ -54,4 +58,4 @@ https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 ## Marked as Spoiler
 
 - https://rtapp.tk/story7-theme-discussion (probably an GitLab issue)
-- TK
+- Add content here
