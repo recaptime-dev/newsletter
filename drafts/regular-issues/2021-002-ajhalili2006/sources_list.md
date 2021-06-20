@@ -33,6 +33,7 @@ Notes:
 - TODO: Add Audacity CLA/twpemetry chaos
 - https://www.zdnet.com/article/nasty-linux-systemd-root-level-security-bug-revealed-and-patched/
 - https://open.spotify.com/episode/5U83QXrfKl7lUhEY87PyyL?si=oQ8NlnpTRsSAvraTpzCdng&utm_source=copy-link&dl_branch=1
+- https://about.gitlab.com/blog/2021/06/04/gitlab-moving-to-14-breaking-changes/
 
 ## Curated Picks
 
