@@ -21,6 +21,9 @@ TODO: Add polkit here
 ### In the open-source radar
 
 * BitwardenRS is now Vaultwarden to prevent confusion and possible trademark issues.
+* GitLab SaaS is now heading towards GitLab 14.0, with some breaking changes such as complete removal of
+`WIP` prefix for `Draft` prefix, among other things. (For self-hosted people, read the CE/EE changelog
+over here.)
 
 ### On the Podcasts section
 
