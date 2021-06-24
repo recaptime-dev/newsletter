@@ -21,6 +21,7 @@ Notes:
 - https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default
 - https://www.wired.com/story/frag-attack-wi-fi-vulnerabilities
 - https://appleinsider.com/articles/21/05/17/hbo-max-cnn-discovery-to-merge-forming-new-streaming-service
+- https://www.sentinelone.com/blog/darkradiation-abusing-bash-for-linux-and-docker-container-ransomware/
 - https://www.xda-developers.com/material-you/
 - https://www.androidauthority.com/android-12-redesign-1225716/
 - https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/
@@ -34,7 +35,7 @@ Notes:
 - https://www.zdnet.com/article/nasty-linux-systemd-root-level-security-bug-revealed-and-patched/
 - https://open.spotify.com/episode/5U83QXrfKl7lUhEY87PyyL?si=oQ8NlnpTRsSAvraTpzCdng&utm_source=copy-link&dl_branch=1
 - https://about.gitlab.com/blog/2021/06/04/gitlab-moving-to-14-breaking-changes/
-
+- https://youtu.be/Gd9bvdkIXOQ
 ## Curated Picks
 
 - https://dev.to/blaketweeted/the-truth-about-open-source-developers-wds-2-2bb9

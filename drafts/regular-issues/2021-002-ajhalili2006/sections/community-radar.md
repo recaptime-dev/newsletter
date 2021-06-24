@@ -16,15 +16,15 @@ We can't see what Ben Awad build next in the future. And if you want to be first
 
 ### Seucrity Vunlerability Radar
 
-TODO: Add polkit here
+TODO: Add polkit here and others
 
-### In the open-source radar
+### On other open-source News
 
 * BitwardenRS is now Vaultwarden to prevent confusion and possible trademark issues.
 * GitLab SaaS is now heading towards GitLab 14.0, with some breaking changes such as complete removal of
-`WIP` prefix for `Draft` prefix, among other things. (For self-hosted people, read the CE/EE changelog
-over here.)
+`WIP` prefix for `Draft` prefix, among other things. (For self-hosted people, read the CE/EE changelog over here.)
 
-### On the Podcasts section
+### Podcasts and Other Picks
 
-* **From JS Party:** Need to use Node.js in the browser without disabling security features on your Electron apps? No problem, [WebContainners is here to help](https://open.spotify.com/episode/5U83QXrfKl7lUhEY87PyyL?si=oQ8NlnpTRsSAvraTpzCdng&utm_source=copy-link&dl_branch=1).
+* **From JS Party:** Need to use Node.js in the browser without disabling security features on your Electron apps? No problem, [WebContainners by StackBiliz is here to help](https://open.spotify.com/episode/5U83QXrfKl7lUhEY87PyyL?si=oQ8NlnpTRsSAvraTpzCdng&utm_source=copy-link&dl_branch=1). (It's in beta as of time of writing, so proceed at your own risk and will be open-source once in GA.) It's still Node.js you know and love, but complied as WebAssembly and powered by Chromium's V8 engine (so you don't need to worry about all the chaos management in patching V8 side on the Node.js binary itself).
+- But what about an full-blown Ubuntu (or Alpine) desktop in an container inside an browser (without installing any VNC client)? [Watch this video from Techno Tim](https://youtu.be/Gd9bvdkIXOQ) on how to setup an minimal Linux desktop in Docker with Compose.

@@ -46,6 +46,16 @@ A set of vulnerabilities in how Wi-Fi works is its design expose virtually every
 
 As usual, update your devices into latest patched to keep you protected. But even without software updates, you should make sure that websites you're going have HTTPS on it. Otherwise, you should use an VPN (only use it if you think your government acts like Chinese government).
 
+### An Linux + Docker Ransomware? There's DarkRadiation
+
+> Full article: https://www.sentinelone.com/blog/darkradiation-abusing-bash-for-linux-and-docker-container-ransomware/
+
+While these ransomware are now [an common occurence, as SentinelOne said](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-2/), this ransomware is written in Bash, which some security solutions may having trouble detect it as an threat. And spoiler alert: because this is also affect Docker containners, this is an concern for enterprises.
+
+As we read through the article, we found that these threat actors are probably fans of The Matrix Trilogy. And even the author of that script left an comment (in Russian) that they use [an Node.js package called `bash-obfuscate`](https://www.npmjs.com/package/bash-obfuscate) to obfuscate stuff.
+
+But you can replace every `eval` occurence with `echo`, despite the complexity of the obfuscated shell script (which are apparent). And even it hides itself on `/usr/share/man/man8/` (usually reserved for manpages) and tricks user by doing social engineering tricks.
+
 ### HBO Max + CNN + Discovery = new streaming service
 
 > Full article: https://appleinsider.com/articles/21/05/17/hbo-max-cnn-discovery-to-merge-forming-new-streaming-service
@@ -63,7 +73,7 @@ We also recommend to read [TechCrunch's coverage](https://techcrunch.com/tag/goo
 
 ### Finally, some more stuff from This Week in Apps Newsletter
 
-> For the full scoop, check out [This Week in Apps' May 22, 2021 issue](https://techcrunch.com/2021/05/22/this-week-in-apps-google-i-o-hits-and-misses-snap-goes-shopping-parler-returns-to-app-store/).
+> For the full scoop, check out [This Week in Apps' May 22, 2021](https://techcrunch.com/2021/05/22/this-week-in-apps-google-i-o-hits-and-misses-snap-goes-shopping-parler-returns-to-app-store/) and [June 19, 2021](https://techcrunch.com/2021/06/19/this-week-in-apps-spotify-debuts-a-clubhouse-rival-facebook-tests-audio-rooms-in-us-amazon-cuts-appstore-commissions/) issues. If we missed something, you can see all of them [here](https://techcrunch.com/tags/this-week-in-apps).
 
 * [Parler is back on Apple App Store](https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/), but posts that labeled as `hate` are not available on the iOS app, among other things.
 * So you think WhatsApp's new privacy policy BS for you? No problem, switch to Telegram if you want cloud backups (you still need to create e2e chats) and more, or if you want security, there's Signal. (What about Matrix, if you want an more decentralized platform? Well, an spec update is needed to minimize metadata.)
