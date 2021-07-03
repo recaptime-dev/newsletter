@@ -67,7 +67,7 @@ AT&T seems to sell their media division, War
 
 Remember that last year's went cancelled due to the pandemic? They're back this year, but now it's free woth some swag and merch for those who brought an ticket last year. (Timezones are hell messier, but atleast they're on-demand after I/O 2021, most of these.)
 
-From the [Android 12 redesign](https://www.androidauthority.com/android-12-redesign-1225716/), to [their partnership with Samsung to challenge Apple Watch](), and more, if you're late at the party, you can watch this quick recap from [Google](bshq).
+From the [Android 12 redesign](https://www.androidauthority.com/android-12-redesign-1225716/), to [their partnership with Samsung to challenge Apple Watch](), and more, if you're late at the party, you can watch this quick recap from [Google](https://www.youtube.com/watch?v=L7c4wS7T_T8).
 
 We also recommend to read [TechCrunch's coverage](https://techcrunch.com/tag/google-i-o-2021) of Google I/O 2021 for more.
 
@@ -78,12 +78,14 @@ We also recommend to read [TechCrunch's coverage](https://techcrunch.com/tag/goo
 * [Parler is back on Apple App Store](https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/), but posts that labeled as `hate` are not available on the iOS app, among other things.
 * So you think WhatsApp's new privacy policy BS for you? No problem, switch to Telegram if you want cloud backups (you still need to create e2e chats) and more, or if you want security, there's Signal. (What about Matrix, if you want an more decentralized platform? Well, an spec update is needed to minimize metadata.)
 * An munted $#!tshow happened in Freenode as devs flee to other IRC networks after [an "takeover" by Korean Crown Prince](https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover), in which case, we definitely f&#ked.
+* And wait, Spotify got an Clubhouse competitor? [Well, yes, it's Greenhouse.](https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/) Actually, the app itself still uses the exisitng Locker Room, just rebranded it to Greenhouse. And btw, consider this as an soft launch as it has plans to announce shows later this summer as of time of writing of this issue.
+* Don't forget [Apple just released the SDK for Shazam](https://techcrunch.com/2021/06/08/apples-new-shazamkit-brings-audio-recognition-to-apps-including-those-on-android/), with Android support.
 
 ### RIP 32-bit, as Arm says
 
 > Full article: https://www.androidauthority.com/arm-32-vs-64-bit-explained-1232065/
 
-For Android and Apple users, this should be fine on most cases. For Windows and Linux, 32-bit support will still be there for some time.
+For Android and Apple users, this should be fine on most cases. For Windows and Linux, 32-bit support will still be there for some time. (But if you have an old 32-bit machine, you need to pick an Linux distro that still supports x86 machines, like Alpine Linux.)
 
 ### And wait, there's more!
 

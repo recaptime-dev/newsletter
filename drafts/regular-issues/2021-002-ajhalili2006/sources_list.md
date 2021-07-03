@@ -24,18 +24,21 @@ Notes:
 - https://www.sentinelone.com/blog/darkradiation-abusing-bash-for-linux-and-docker-container-ransomware/
 - https://www.xda-developers.com/material-you/
 - https://www.androidauthority.com/android-12-redesign-1225716/
+- https://www.youtube.com/watch?v=L7c4wS7T_T8
 - https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/
-- 
+- https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/
+- https://techcrunch.com/2021/06/08/apples-new-shazamkit-brings-audio-recognition-to-apps-including-those-on-android/
 - https://www.vice.com/en/article/m7ev8y/freenode-open-source-korea-crown-prince-takeover
 - https://www.androidauthority.com/arm-32-vs-64-bit-explained-1232065/
 
 ## Community Radar
 
-- TODO: Add Audacity CLA/twpemetry chaos
-- https://www.zdnet.com/article/nasty-linux-systemd-root-level-security-bug-revealed-and-patched/
+- TODO: Add Audacity CLA/telemetry chaos
+- https://www.zdnet.com/article/nasty-linux-systemd-root-level-security-bug-revealed-and-patched/ and https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 - https://open.spotify.com/episode/5U83QXrfKl7lUhEY87PyyL?si=oQ8NlnpTRsSAvraTpzCdng&utm_source=copy-link&dl_branch=1
 - https://about.gitlab.com/blog/2021/06/04/gitlab-moving-to-14-breaking-changes/
 - https://youtu.be/Gd9bvdkIXOQ
+
 ## Curated Picks
 
 - https://dev.to/blaketweeted/the-truth-about-open-source-developers-wds-2-2bb9
@@ -59,5 +62,5 @@ https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 
 ## Marked as Spoiler
 
-- https://rtapp.tk/story7-theme-discussion (probably an GitLab issue)
+- https://rtapp.tk/story7-theme-discussion (probably an GitLab issue, also available at https://kutt.it/story7-theme-discussion)
 - Add content here
