@@ -85,10 +85,10 @@ We also recommend to read [TechCrunch's coverage](https://techcrunch.com/tag/goo
 
 > Full article: https://www.androidauthority.com/arm-32-vs-64-bit-explained-1232065/
 
-For Android and Apple users, this should be fine on most cases. For Windows and Linux, 32-bit support will still be there for some time. (But if you have an old 32-bit machine, you need to pick an Linux distro that still supports x86 machines, like Alpine Linux.)
+For Android and Apple users, this should be fine on most cases. For Windows and Linux, 32-bit support will still be there for some time, except for Windows 11. (But if you have an old 32-bit machine, you need to pick an Linux distro that still supports x86 machines, like Alpine Linux.)
 
 ### And wait, there's more!
 
-Because of the delays in publishing this issues, some of them (including Windows 11 and Apple WWDC stuff) are on the Curated Picks section.
+Because of the delays in publishing this issues, some of them (including Windows 11 and Apple WWDC stuff) are on the Curated Picks section. (Btw, [the Steam Deck handheld](https://www.pcgamer.com/steam-deck-handheld-announced/) has announced, starts at $400 when released.)
 
 If you want to help us write quarterly recaps (and make these quarterly recaps into monthly ones), the newsletter itself is [open-source](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter-archives) and we're open for any contributions.

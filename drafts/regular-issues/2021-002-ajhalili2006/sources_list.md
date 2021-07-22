@@ -51,6 +51,8 @@ https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 - https://www.zdnet.com/article/microsoft-wants-you-to-calm-down-about-windows-11-in-a-twisted-wonderful-way
 - https://www.thurrott.com/google/251868/google-makes-workspace-free-for-everyon
 - https://open.spotify.com/episode/3wxKujV5HoQypeAIt0oYZP?si=X1QtTOwiTxu6yVRO2UX8OA&utm_source=copy-link&dl_branch=1
+- https://9to5mac.com/2021/06/27/mark-gurman-apple-exploring-future-ipad-designs-with-larger-screens/
+- https://www.yahoo.com/now/fired-bot-amazon-against-machine-100013296.html
 
 ## Related Articles and Content
 
