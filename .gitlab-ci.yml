@@ -1,10 +1,10 @@
-image: node:14
+image: node:16
 
 stages:
   - lint
   - devcontainer
 
-markdownlint:
-  stage: lint
-  script:
-    - npm i markdownlint
+#markdownlint:
+#  stage: lint
+#  script:
+#    - npm i markdownlint
